@@ -1,2 +1,4 @@
 # NodeJSURLShort
-NodeJS backend for ReactURLShort
+NodeJS backend for ReactURLShort  
+Automation  
+Build process TODO. 
