@@ -1,0 +1,6 @@
+<VirtualHost *:80>
+    DocumentRoot "/var/www/html/lktd.in"
+    ErrorLog ${APACHE_LOG_DIR}/lktd.error.log
+    CustomLog ${APACHE_LOG_DIR}/lktd.access.log combined
+    ServerAdmin admin@lktd.in
+</VirtualHost>
